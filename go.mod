@@ -1,4 +1,4 @@
-module github.com/ProtonMail/gopenpgp/v3
+module github.com/tacerus/gopenpgp
 
 go 1.17
 
